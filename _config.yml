@@ -80,7 +80,7 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title: About & Contact
 # contact_description: This will be displayed under the title.
 contact_description: I grew up in the world of electronics and robotics, now also developing web applications. Mostly I have focused on IoT and IioT, as it combines the virtual and real world, thus taking advantage of my previous experience in robotics and electronics. Also a geek of the data world and, in general, of technology. If you are interested you can check my <a class="highlight-link" href="resume/index.html" target="_blank" rel="noreferrer">CV</a> and contact me using any of the channels mentioned below.
 
